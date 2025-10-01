@@ -1,6 +1,6 @@
 package edu.uth;
 
-public class Ketoanvien extends Nhanvien{
+class Ketoanvien extends Nhanvien{
     public Ketoanvien(){
         super();
     }

@@ -1,6 +1,6 @@
 package edu.uth;
 
-public abstract class Nhanvien {
+abstract class Nhanvien {
     protected String maso;
     protected String hoten;
     protected Double luongCB;
