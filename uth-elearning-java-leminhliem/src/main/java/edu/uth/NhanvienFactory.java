@@ -1,6 +1,6 @@
 package edu.uth;
 
- class NhanvienFactory implements INhanvienFactory{
+ public class NhanvienFactory implements INhanvienFactory{
     @Override
     public Nhanvien createNhanvien(String loaiNV, String maso, String hoten, double luongCB){
         Nhanvien nv ;
